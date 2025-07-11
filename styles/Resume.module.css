@@ -1,0 +1,27 @@
+.resume {
+  text-align: center;
+}
+
+.resume h2 {
+  font-size: 2rem;
+  color: #38bdf8;
+  margin-bottom: 1rem;
+}
+
+.resume p {
+  color: #cbd5e1;
+  margin-bottom: 1.5rem;
+}
+
+.downloadBtn {
+  background-color: #2563eb;
+  color: #fff;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.5rem;
+  font-weight: 500;
+  transition: background 0.3s;
+}
+
+.downloadBtn:hover {
+  background-color: #38bdf8;
+}

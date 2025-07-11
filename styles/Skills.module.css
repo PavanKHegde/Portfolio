@@ -1,0 +1,24 @@
+.skills {
+  text-align: center;
+}
+
+.skills h2 {
+  font-size: 2rem;
+  color: #38bdf8;
+  margin-bottom: 2rem;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1.5rem;
+  justify-items: center;
+}
+
+.skill {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #cbd5e1;
+  gap: 0.5rem;
+}
