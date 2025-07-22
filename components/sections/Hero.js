@@ -26,10 +26,11 @@ export default function Hero() {
           <h1 className={styles.heading}>
   Hi, I'm <span>Pavan Hegde</span>
 </h1>
-<h2 className={styles.subheading}>Backend-Focused Software Developer</h2>
+<h2 className={styles.subheading}>Software Developer</h2>
 <p className={styles.description}>
-  I have hands-on experience in building backend systems using Node.js, Express, PostgreSQL, Django, and RESTful APIs, along with a solid understanding of frontend development to deliver full-stack web solutions.
+  Software Developer with a strong focus on backend systems using Node.js, Express, PostgreSQL, Django, and RESTful APIs — along with frontend experience to build and maintain full-stack applications.
 </p>
+
 
           <motion.div
             initial={{ scale: 0.8, opacity: 0 }}
